@@ -1,3 +1,6 @@
+/*
+ * 这个是一个关于人的类
+ */
 class Person {
 	private String name;
 	private int age;
